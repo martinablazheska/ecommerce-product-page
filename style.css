@@ -79,7 +79,7 @@ nav div {
 }
 
 .menu-icon {
-    background-image: url("/images/icon-menu.svg");
+    background-image: url("images/icon-menu.svg");
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
@@ -91,7 +91,7 @@ nav div {
 }
 
 .logo {
-    background-image: url("/images/logo.svg");
+    background-image: url("images/logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -103,7 +103,7 @@ nav div {
 }
 
 .cart {
-    background-image: url("/images/icon-cart.svg");
+    background-image: url("images/icon-cart.svg");
     background-repeat: no-repeat;
     background-size: 70%;
     background-position: center;
@@ -116,7 +116,7 @@ nav div {
 }
 
 .avatar {
-    background-image: url("/images/image-avatar.png");
+    background-image: url("images/image-avatar.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -209,7 +209,7 @@ nav div {
 #prod-view {
     height: 50px;
     width: 50px;
-    background-image: url("/images/image-product-1.jpg");
+    background-image: url("images/image-product-1.jpg");
     background-size: cover;
     border-radius: 5px;
     margin-right: 2vw;
@@ -255,7 +255,7 @@ nav div {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("/images/image-product-1.jpg");
+    background-image: url("images/image-product-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -473,7 +473,7 @@ h1 {
     }
 
     .active-photo {
-        background-image: url("/images/image-product-1.jpg");
+        background-image: url("images/image-product-1.jpg");
         background-size: cover;
         background-repeat: no-repeat ;
         width: 35vw;
@@ -505,22 +505,22 @@ h1 {
     }
 
         .photo:nth-of-type(1){
-            background-image: url("/images/image-product-1-thumbnail.jpg"), linear-gradient(hsla(179, 100%, 92%, 0.788), hsla(179, 100%, 92%, 0.788));
+            background-image: url("images/image-product-1-thumbnail.jpg"), linear-gradient(hsla(179, 100%, 92%, 0.788), hsla(179, 100%, 92%, 0.788));
     
         }
         
         .photo:nth-of-type(2){
-            background-image: url("/images/image-product-2-thumbnail.jpg"), linear-gradient(hsla(0, 0%, 95%, 0.788), hsla(179, 100%, 92%, 0.788));
+            background-image: url("images/image-product-2-thumbnail.jpg"), linear-gradient(hsla(0, 0%, 95%, 0.788), hsla(179, 100%, 92%, 0.788));
         
         }
 
         .photo:nth-of-type(3){
-            background-image: url("/images/image-product-3-thumbnail.jpg"), linear-gradient(hsla(179, 100%, 92%, 0.788), hsla(179, 100%, 92%, 0.788));
+            background-image: url("images/image-product-3-thumbnail.jpg"), linear-gradient(hsla(179, 100%, 92%, 0.788), hsla(179, 100%, 92%, 0.788));
             
         }
 
         .photo:nth-of-type(4){
-            background-image: url("/images/image-product-4-thumbnail.jpg"), linear-gradient(hsla(179, 100%, 92%, 0.788), hsla(179, 100%, 92%, 0.788));
+            background-image: url("images/image-product-4-thumbnail.jpg"), linear-gradient(hsla(179, 100%, 92%, 0.788), hsla(179, 100%, 92%, 0.788));
         }
 
     .selected {

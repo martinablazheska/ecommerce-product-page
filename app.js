@@ -17,7 +17,7 @@ close.addEventListener('click', function(){
 
 //product photos
 
-const products = ['url("/images/image-product-1.jpg")', 'url("/images/image-product-2.jpg")', 'url("/images/image-product-3.jpg")', 'url("/images/image-product-4.jpg")'];
+const products = ['url("images/image-product-1.jpg")', 'url("images/image-product-2.jpg")', 'url("images/image-product-3.jpg")', 'url("images/image-product-4.jpg")'];
 const nextButton = document.querySelector('#next');
 const prevButton = document.querySelector('#previous');
 
